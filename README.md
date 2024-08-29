@@ -7,7 +7,7 @@
 1. Clone/Download this repository.
 2. Obtain your Twitter API credentials.
 3. Replace appropriate credentials in ```main.py``` file.
-4. Install all the required dependencies listed in ```requirements.txt```.
+4. Install all the required dependencies . 
 5. Run the flask server using ```python main.py``` to see the result on port 5000(by default).
 
 ## A brief on the libraries used :
